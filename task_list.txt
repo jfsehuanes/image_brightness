@@ -1,0 +1,5 @@
+python3 img_brigthness.py "test_images/01_CC_1901.JPG"
+python3 img_brigthness.py "test_images/02_CC_22-03_2027.JPG"
+python3 img_brigthness.py "test_images/12_LL_06-03_0040 (2).JPG"
+python3 img_brigthness.py "test_images/13_CM_08-03_0334 (2).JPG"
+python3 img_brigthness.py "test_images/14_CM_09-03_0249.JPG"
